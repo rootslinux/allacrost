@@ -1,0 +1,2488 @@
+# Spanish Translations for Allacrost Demo package
+# Copyright (C) 2010 The Allacrost Project
+# This file is distributed under the same license as the Allacrost package.
+#
+# Jacob Rudolph <rujasu@allacrost.org>, 2010.
+#  <rujasu@yahoo.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hero of Allacrost - Demo 1.0.0\n"
+"Report-Msgid-Bugs-To: http://bugs.allacrost.org/\n"
+"POT-Creation-Date: 2015-09-14 09:48+0200\n"
+"PO-Revision-Date: 2010-03-14 23:06-0400\n"
+"Last-Translator:  <rujasu@yahoo.com>\n"
+"Language-Team: en_US <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.0\n"
+
+#: lua/data/actors/characters.lua:13 lua/data/actors/map_sprites_stock.lua:18
+#, fuzzy
+msgid "Claudius"
+msgstr "¿Claudius?"
+
+#: lua/data/actors/characters.lua:38 lua/data/actors/characters.lua:163
+#: lua/data/actors/characters.lua:288 lua/data/actors/enemies_set_01.lua:114
+#: lua/data/actors/enemies_set_01.lua:168
+#: lua/data/actors/enemies_set_01.lua:231
+#: lua/data/actors/enemies_set_01.lua:285
+#: lua/data/actors/enemies_set_01.lua:403
+#: lua/data/actors/enemies_set_01.lua:457
+#: lua/data/actors/enemies_set_01.lua:645
+#: lua/data/actors/enemies_set_02.lua:131
+#: lua/data/actors/enemies_set_02.lua:187
+#: lua/data/actors/enemies_set_02.lua:243
+#: lua/data/actors/enemies_set_02.lua:308
+#: lua/data/actors/enemies_set_02.lua:363 src/modes/menu/menu.cpp:852
+msgid "Head"
+msgstr "Cabeza"
+
+#: lua/data/actors/characters.lua:47 lua/data/actors/characters.lua:172
+#: lua/data/actors/characters.lua:297 lua/data/actors/enemies_set_01.lua:348
+#: lua/data/actors/enemies_set_01.lua:528 src/modes/menu/menu.cpp:855
+msgid "Torso"
+msgstr "Torso"
+
+#: lua/data/actors/characters.lua:55 lua/data/actors/characters.lua:180
+#: lua/data/actors/characters.lua:305
+msgid "Arms"
+msgstr ""
+
+#: lua/data/actors/characters.lua:64 lua/data/actors/characters.lua:189
+#: lua/data/actors/characters.lua:314 lua/data/actors/enemies_set_01.lua:724
+#: lua/data/actors/enemies_set_02.lua:267
+#: lua/data/actors/enemies_set_02.lua:379 src/modes/menu/menu.cpp:861
+msgid "Legs"
+msgstr "Piernas"
+
+#: lua/data/actors/characters.lua:138
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:192
+#: lua/scripts/maps/a01_opening_scene.lua:117
+#: lua/scripts/maps/a01_return_scene.lua:117
+#: lua/scripts/maps/a01_unblock_underground_river.lua:270
+msgid "Mark"
+msgstr ""
+
+#: lua/data/actors/characters.lua:263
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:197
+#: lua/scripts/maps/a01_opening_scene.lua:126
+#: lua/scripts/maps/a01_return_scene.lua:124
+#: lua/scripts/maps/a01_unblock_underground_river.lua:276
+msgid "Lukar"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:48
+msgid "Green Slime"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:68
+#: lua/data/actors/enemies_set_01.lua:176
+#: lua/data/actors/enemies_set_01.lua:590
+#: lua/data/actors/enemies_set_02.lua:139
+msgid "Body"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:94
+msgid "Spider"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:122
+#: lua/data/actors/enemies_set_01.lua:293
+#: lua/data/actors/enemies_set_02.lua:195
+msgid "Abdomen"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:148
+msgid "Snake"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:184
+#: lua/data/actors/enemies_set_01.lua:411
+#: lua/data/actors/enemies_set_02.lua:147
+#: lua/data/actors/enemies_set_02.lua:203
+msgid "Tail"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:211
+msgid "Rat"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:239
+#: lua/data/actors/enemies_set_01.lua:465
+#: lua/data/actors/enemies_set_02.lua:251
+#: lua/data/actors/enemies_set_02.lua:316
+#: lua/data/actors/enemies_set_02.lua:371
+msgid "Chest"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:265
+msgid "Scorpion"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:301
+#: lua/data/actors/enemies_set_01.lua:473
+#: lua/data/actors/enemies_set_01.lua:661 src/modes/menu/menu_views.cpp:210
+msgid "Leg"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:328
+msgid "Bat"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:356
+msgid "Wing"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:383
+msgid "Dune Crawler"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:437
+msgid "Skeleton"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:500
+msgid "Stygian Lizard"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:520
+msgid "Eye"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:536
+#: lua/data/actors/enemies_set_01.lua:598
+msgid "Claw"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:562
+msgid "Demonic Essence"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:582
+msgid "Face"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:625
+msgid "Scorpion Goliath"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:653
+msgid "Pincer"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:688
+msgid "Armored Beast"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:708
+msgid "Mesosoma"
+msgstr ""
+
+#: lua/data/actors/enemies_set_01.lua:716
+msgid "Pincers"
+msgstr ""
+
+#: lua/data/actors/enemies_set_02.lua:15
+msgid "Daemarbora"
+msgstr ""
+
+#: lua/data/actors/enemies_set_02.lua:35
+msgid "Trunk"
+msgstr ""
+
+#: lua/data/actors/enemies_set_02.lua:43
+msgid "Branches"
+msgstr ""
+
+#: lua/data/actors/enemies_set_02.lua:63
+msgid "Aerocephal"
+msgstr ""
+
+#: lua/data/actors/enemies_set_02.lua:83
+msgid "Forehead"
+msgstr ""
+
+#: lua/data/actors/enemies_set_02.lua:91
+msgid "Orifice"
+msgstr ""
+
+#: lua/data/actors/enemies_set_02.lua:111
+msgid "Arcana Drake"
+msgstr ""
+
+#: lua/data/actors/enemies_set_02.lua:167
+msgid "Nagaruda"
+msgstr ""
+
+#: lua/data/actors/enemies_set_02.lua:223
+msgid "Deceleon"
+msgstr ""
+
+#: lua/data/actors/enemies_set_02.lua:259
+#: lua/data/actors/enemies_set_02.lua:324 src/modes/menu/menu.cpp:858
+#: src/modes/menu/menu_views.cpp:209
+msgid "Arm"
+msgstr "Brazo"
+
+#: lua/data/actors/enemies_set_02.lua:287
+msgid "Aurum Drakueli"
+msgstr ""
+
+#: lua/data/actors/enemies_set_02.lua:343
+#: lua/data/actors/map_sprites_stock.lua:44
+#, fuzzy
+msgid "Kyle"
+msgstr "¡Kyle!"
+
+#: lua/data/actors/map_sprites_stock.lua:31
+msgid "Laila"
+msgstr ""
+
+#: lua/data/actors/map_sprites_stock.lua:57
+#: lua/data/actors/map_sprites_stock.lua:69
+#: lua/data/actors/map_sprites_stock.lua:81
+#: lua/data/actors/map_sprites_stock.lua:93
+#: lua/data/actors/map_sprites_stock.lua:105
+#: lua/data/actors/map_sprites_stock.lua:117
+#, fuzzy
+msgid "Knight"
+msgstr "Derecho"
+
+#: lua/data/actors/map_sprites_stock.lua:129
+msgid "Marcus"
+msgstr ""
+
+#: lua/data/actors/map_sprites_stock.lua:141
+msgid "Vanica"
+msgstr ""
+
+#: lua/data/actors/map_sprites_stock.lua:153
+msgid "Alexander"
+msgstr ""
+
+#: lua/data/actors/map_sprites_stock.lua:164
+msgid "Laine"
+msgstr ""
+
+#: lua/data/actors/map_sprites_stock.lua:175
+msgid "Torl"
+msgstr ""
+
+#: lua/data/actors/map_sprites_stock.lua:186
+msgid "Female Merchant"
+msgstr ""
+
+#: lua/data/actors/map_sprites_stock.lua:197
+msgid "Livia"
+msgstr ""
+
+#: lua/data/actors/map_sprites_stock.lua:208
+msgid "Octavia"
+msgstr ""
+
+#: lua/data/actors/map_sprites_stock.lua:220
+msgid "Mak Hound"
+msgstr ""
+
+#: lua/data/effects/status.lua:49
+msgid "Raise Strength"
+msgstr ""
+
+#: lua/data/effects/status.lua:96
+msgid "Lower Strength"
+msgstr ""
+
+#: lua/data/effects/status.lua:143
+msgid "Raise Vigor"
+msgstr ""
+
+#: lua/data/effects/status.lua:190
+msgid "Lower Vigor"
+msgstr ""
+
+#: lua/data/effects/status.lua:237
+msgid "Raise Fortitude"
+msgstr ""
+
+#: lua/data/effects/status.lua:284
+msgid "Lower Fortitude"
+msgstr ""
+
+#: lua/data/effects/status.lua:331
+msgid "Raise Protection"
+msgstr ""
+
+#: lua/data/effects/status.lua:378
+msgid "Lower Protection"
+msgstr ""
+
+#: lua/data/effects/status.lua:425
+msgid "Raise Agility"
+msgstr ""
+
+#: lua/data/effects/status.lua:473
+msgid "Lower Agility"
+msgstr ""
+
+#: lua/data/effects/status.lua:521
+msgid "Raise Evasion"
+msgstr ""
+
+#: lua/data/effects/status.lua:571
+msgid "Lower Evasion"
+msgstr ""
+
+#: lua/data/effects/status.lua:618
+msgid "Regenerate HP"
+msgstr ""
+
+#: lua/data/effects/status.lua:638
+msgid "Poison"
+msgstr ""
+
+#: lua/data/effects/status.lua:666
+msgid "Regenerate SP"
+msgstr ""
+
+#: lua/data/effects/status.lua:686
+msgid "Drain SP"
+msgstr ""
+
+#: lua/data/effects/status.lua:706
+msgid "Paralysis"
+msgstr ""
+
+#: lua/data/effects/status.lua:727
+msgid "Stasis"
+msgstr ""
+
+#: lua/data/inventory/arm_armor.lua:40
+msgid "Wooden Shield"
+msgstr ""
+
+#: lua/data/inventory/arm_armor.lua:41
+msgid "Robust wooden oak protects from all but the heaviest of assaults."
+msgstr ""
+
+#: lua/data/inventory/arm_armor.lua:51
+msgid "Metal Shield"
+msgstr ""
+
+#: lua/data/inventory/arm_armor.lua:52
+msgid ""
+"A shield formed completely out of a light-weight but cheap metallic alloy."
+msgstr ""
+
+#: lua/data/inventory/arm_armor.lua:62
+msgid "Phoenix Shield"
+msgstr ""
+
+#: lua/data/inventory/arm_armor.lua:63
+msgid "A tall steel shield with a mighty phoenix emblazoned on the front."
+msgstr ""
+
+#: lua/data/inventory/arm_armor.lua:73
+msgid "Trident Shield"
+msgstr ""
+
+#: lua/data/inventory/arm_armor.lua:74
+msgid ""
+"A large shield with enough fortitude to withstand waves of powerful attacks."
+msgstr ""
+
+#: lua/data/inventory/head_armor.lua:40
+msgid "Karlate Helmet"
+msgstr ""
+
+#: lua/data/inventory/head_armor.lua:41
+msgid ""
+"Standard Karlate issued equipment. Battle worn but reliable head protection."
+msgstr ""
+
+#: lua/data/inventory/head_armor.lua:51
+msgid "Cobalt Helm"
+msgstr ""
+
+#: lua/data/inventory/head_armor.lua:52
+msgid "A small helmet composed of a secret cobalt based alloy."
+msgstr ""
+
+#: lua/data/inventory/head_armor.lua:62
+msgid "Crested Helmet"
+msgstr ""
+
+#: lua/data/inventory/head_armor.lua:63
+msgid ""
+"A sturdy helmet with a hinged face guard offering additional protection."
+msgstr ""
+
+#: lua/data/inventory/items.lua:46
+msgid "Minor Healing Potion"
+msgstr ""
+
+#: lua/data/inventory/items.lua:47
+msgid "Restores a small amount of hit points to a target."
+msgstr ""
+
+#: lua/data/inventory/items.lua:69
+msgid "Minor Elixir"
+msgstr ""
+
+#: lua/data/inventory/items.lua:70
+msgid "Reduces ailing status effects by a limited degree."
+msgstr ""
+
+#: lua/data/inventory/leg_armor.lua:40
+msgid "Standard Greaves"
+msgstr ""
+
+#: lua/data/inventory/leg_armor.lua:41
+msgid ""
+"Standard equipment. Light metal alloy protects the legs while minimizing the "
+"negative impact on movement."
+msgstr ""
+
+#: lua/data/inventory/leg_armor.lua:51
+msgid "Tempered Greaves"
+msgstr ""
+
+#: lua/data/inventory/leg_armor.lua:52
+msgid ""
+"Standard greaves that have undergone an additional tempering process, "
+"increasing their durability and strength."
+msgstr ""
+
+#: lua/data/inventory/torso_armor.lua:40
+msgid "Leather Chain Mail"
+msgstr ""
+
+#: lua/data/inventory/torso_armor.lua:41
+msgid "A light chain mail woven into a tough leather cuirass."
+msgstr ""
+
+#: lua/data/inventory/torso_armor.lua:51
+msgid "Karlate Breastplate"
+msgstr ""
+
+#: lua/data/inventory/torso_armor.lua:52
+msgid ""
+"Standard Karlate issued equipment. Effectively protects the torso from most "
+"types of attack."
+msgstr ""
+
+#: lua/data/inventory/torso_armor.lua:62
+msgid "Shouldered Breastplate"
+msgstr ""
+
+#: lua/data/inventory/torso_armor.lua:63
+msgid ""
+"A breastplate with slightly thicker armor than is commonly found and "
+"additional shoulder guards."
+msgstr ""
+
+#: lua/data/inventory/weapons.lua:40
+msgid "Karlate Sword"
+msgstr ""
+
+#: lua/data/inventory/weapons.lua:41
+msgid ""
+"Standard Karlate issued equipment. A light weight iron sword suitable for "
+"most skirmishes."
+msgstr ""
+
+#: lua/data/inventory/weapons.lua:51
+msgid "Iron Sword"
+msgstr ""
+
+#: lua/data/inventory/weapons.lua:52
+msgid ""
+"A sturdy but somewhat dull sword whose blade was forged from a single block "
+"of solid iron."
+msgstr ""
+
+#: lua/data/inventory/weapons.lua:62
+#, fuzzy
+msgid "Knight's Blade"
+msgstr "Derecho"
+
+#: lua/data/inventory/weapons.lua:63
+msgid ""
+"A weapon bestowed to seasoned veterans of the knighthood in several kingdoms "
+"throughout the world."
+msgstr ""
+
+#: lua/data/skills/attack.lua:39
+msgid "Sword Slash"
+msgstr ""
+
+#: lua/data/skills/attack.lua:40
+msgid "A textbook manuever that deals an effective blow."
+msgstr ""
+
+#: lua/data/skills/attack.lua:60
+msgid "Forward Thrust"
+msgstr ""
+
+#: lua/data/skills/attack.lua:61
+msgid ""
+"A faster, more powerful blow than the standard sword slash, but requires "
+"more energy."
+msgstr ""
+
+#: lua/data/skills/attack.lua:82
+msgid "Stun Strike"
+msgstr ""
+
+#: lua/data/skills/attack.lua:83
+msgid "A blow which targets vital areas and temporarily stun its target."
+msgstr ""
+
+#: lua/data/skills/attack.lua:105
+msgid "Blade Rush"
+msgstr ""
+
+#: lua/data/skills/attack.lua:106
+msgid ""
+"A strong and aggressive attack with a blade that deals significant damage."
+msgstr ""
+
+#: lua/data/skills/attack.lua:126
+msgid "Precise Strike"
+msgstr ""
+
+#: lua/data/skills/attack.lua:127
+msgid "When you need to bullseye some womp rats"
+msgstr ""
+
+#: lua/data/skills/defense.lua:39
+msgid "Defensive Stance"
+msgstr ""
+
+#: lua/data/skills/defense.lua:40
+msgid "Take a stance to briefly increase defense and recover SP"
+msgstr ""
+
+#: lua/data/skills/support.lua:47
+msgid "First Aid"
+msgstr ""
+
+#: lua/data/skills/support.lua:48
+msgid ""
+"Performs basic medical assistance, healing the target by a minor degree."
+msgstr ""
+
+#: lua/data/skills/support.lua:66
+msgid "Encouraging Shout"
+msgstr ""
+
+#: lua/data/skills/support.lua:67
+msgid "Increases the strength of all allies."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:42
+msgid "Hey rookie! Now don't go telling us that you forgot how to fight."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:44
+msgid "Shut it Mark."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:46
+msgid "Claudius, is there anything you need to ask?"
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:48
+#: lua/scripts/battles/first_battle.lua:105
+msgid "..."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:50
+#: lua/scripts/battles/first_battle.lua:107
+msgid "Ask about battle basics."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:52
+#: lua/scripts/battles/first_battle.lua:109
+msgid "Ask about issuing commands."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:54
+#: lua/scripts/battles/first_battle.lua:111
+msgid "Ask about status effects."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:56
+#: lua/scripts/battles/first_battle.lua:113
+#, fuzzy
+msgid "Ask nothing."
+msgstr "…Es nada."
+
+#: lua/scripts/battles/first_battle.lua:59
+msgid "I could use a refresher on the fundamentals of combat, sir."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:61
+msgid ""
+"Every actor on the battle scene has a hit point (HP) and skill point (SP) "
+"gauge. Each character's HP and SP are displayed at the bottom of the screen. "
+"As enemies take damage in battle, their appearance will reflect that damage."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:63
+msgid ""
+"When an actor's HP reaches zero they become incapacitated. Victory in battle "
+"is obtained by reducing the HP of all enemies to zero."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:65
+msgid ""
+"Every action taken in battle requires SP before it is able to be used. The "
+"most basic of actions do not require SP to be able to be used. Using an item "
+"consumes no SP."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:67
+msgid ""
+"The stamina gauge on the right side of the screen determines when an actor "
+"may take an action. Once an actor's icon reaches the green command bar, they "
+"will begin preparing to execute their selected action. When they reach the "
+"top of the gauge, they will execute their action."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:69
+msgid ""
+"The lower right corner of the screen displays each character's selected "
+"action and target. When a command is being issued for a character, this area "
+"of the screen is replaced with the command menu."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:72
+msgid "How do I select commands to execute?"
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:74
+msgid ""
+"Each character has three types of skills they may execute as an action: "
+"attack, defend, and support skills."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:76
+msgid ""
+"Battle actions requires a certain amount of time to prepare before you can "
+"execute them. This is known as the warm up time period. In general, the more "
+"powerful the skill the longer the warm up will take."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:78
+msgid ""
+"At the bottom of the screen a directional button is shown for each character "
+"that you may select a command for. You can set or change the action and/or "
+"target issued to a character whenever these buttons are visible."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:80
+msgid ""
+"Once the character's icon reaches the green command bar on the stamina "
+"gauge, they will begin preparing to execute any action they have set. If a "
+"character does not have a command set when their icon reaches the green "
+"command bar, the battle will stop until a command is issued for that "
+"character."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:82
+msgid ""
+"All actions affect only one type of target. The target type for each action "
+"is indicated by an icon in the command menu. Possible target types include "
+"an ally, enemy, or an entire party. There are also target types which affect "
+"an attack point, which is a specific part on the body of an actor."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:84
+msgid ""
+"Attack points have properties that make them susceptible to certain types of "
+"attacks or more resistant to others. For example, typically attacking the "
+"head of a target will deal more damage, but the attack is more likely to "
+"miss this small target."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:87
+msgid "What do I need to know about status effects?"
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:89
+msgid ""
+"Status effects cause temporary changes in the state of the afflicted actor. "
+"These changes may be either beneficial or harmful to the their target. "
+"Positive status effects are indicated by an upward green arrow on the status "
+"icon, where as a negative status effect displays a downward red arrow on its "
+"icon."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:91
+msgid ""
+"There are a total of four intensity levels for each status effect. As an "
+"example, if you target an actor that is already inflicted with a negative "
+"reduction in strength with a skill that reduces strength, the intensity of "
+"the status will be increased."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:93
+msgid ""
+"By selecting attacks which target specific attack points on your foes, you "
+"can sometimes naturally trigger a status effect. For example, try attacking "
+"an enemy's arms or claws to reduce their strength. Or choose to go for their "
+"wings or legs to reduce their agility."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:95
+msgid ""
+"Status effects naturally grow weaker in intensity and dissipate with time. "
+"You must continually reinforce status effects that you wish to remain active."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:97
+msgid ""
+"Finally, status effects disappear completely when a battle ends, so there is "
+"no need to remedy your characters from status effects after a battle has "
+"been won."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:100
+msgid "No sir. I have not forgotten my training."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:103
+msgid "Is there anything else you need to ask?"
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:116
+msgid "Thank you sir, I'm prepared now."
+msgstr ""
+
+#: lua/scripts/battles/first_battle.lua:119
+msgid "Good. Now let us quickly dispatch of this minor threat."
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:207
+#: lua/scripts/maps/a01_opening_scene.lua:136
+#: lua/scripts/maps/a01_return_scene.lua:132
+msgid "Captain Bravis"
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:241
+#: lua/scripts/maps/a01_opening_scene.lua:145
+#: lua/scripts/maps/a01_return_scene.lua:139
+msgid "Sergeant Methus"
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:301
+msgid ""
+"The city is under attack by demons. We'll protect the citizens. Make your "
+"way to the castle with haste!"
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:306
+msgid "Go! We'll manage here."
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:312
+msgid "Welcome home, Claudius. What's the matter?"
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:314
+msgid "It's...nothing. I'm just glad you're okay."
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:319
+msgid "Oh dear, oh dear."
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:324
+msgid ""
+"Your mother and I are doing what we can for those who lost their homes in "
+"the attack."
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:326
+msgid "Let me help. Show me where I can make myself useful."
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:328
+msgid ""
+"No, you need to rest. We may be attacked again you know, and how are you "
+"going to defend our city if you're exhausted?"
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:333
+msgid ""
+"Sorry, this inn has converted into a shelter after the attack and we're "
+"completely full."
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:338
+msgid "So much work to do. I'm exhausted."
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:343
+msgid "Most of my inventory was destroyed in the attack."
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:349
+msgid ""
+"Demand has skyrocketed after our city was attacked. I've sold most of my "
+"armaments, but I have a few selections remaining."
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:359
+msgid "Wh...what the hell is going on? What the hell are they?!"
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:361
+msgid "Captain!"
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:363
+msgid ""
+"Lukar! Take your squad and make your way to the castle. Inform the captain "
+"of the royal guard of our return and ask for orders."
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:365
+msgid ""
+"The rest of us will repel these demons! Now go! Defend our people and our "
+"homes!"
+msgstr ""
+
+#: lua/scripts/maps/a01_harrvah_capital_attack.lua:368
+msgid ""
+"The rest of these events are not yet finished. You may explore this map, "
+"enter the various structures, and speak with NPCs. Thanks for playing!"
+msgstr ""
+
+#: lua/scripts/maps/a01_opening_scene.lua:331
+msgid ""
+"Behold, the barren desert that stretches out across the kingdom of Harrvah."
+msgstr ""
+
+#: lua/scripts/maps/a01_opening_scene.lua:334
+msgid ""
+"The Harrvah Knights, though formidable in their great city of stone, were "
+"powerless against the might of this great desert."
+msgstr ""
+
+#: lua/scripts/maps/a01_opening_scene.lua:337
+msgid ""
+"On this auspicious night, a large unit of knights is marching through the "
+"desert, making their way toward a cave a fair distance from the city walls."
+msgstr ""
+
+#: lua/scripts/maps/a01_opening_scene.lua:340
+msgid ""
+"Although the great sand storms that had swept through the lands for the past "
+"several days had finally weakened, the winds still howled throughout the "
+"desert..."
+msgstr ""
+
+#: lua/scripts/maps/a01_opening_scene.lua:346
+msgid "Alright, listen up!"
+msgstr ""
+
+#: lua/scripts/maps/a01_opening_scene.lua:350
+msgid ""
+"Our intelligence reports that somewhere in this cave, the underground river "
+"vein that supplies our city has been blocked. Our mission is to remove the "
+"obstruction and restore our water supply."
+msgstr ""
+
+#: lua/scripts/maps/a01_opening_scene.lua:352
+msgid ""
+"I don't need to remind you all of how important this mission is. That "
+"monster of a storm has prevented us from achieving this objective sooner, "
+"and our local reserves of water are nearly dry. If we fail to succeed here, "
+"our people will perish."
+msgstr ""
+
+#: lua/scripts/maps/a01_opening_scene.lua:354
+msgid ""
+"The passages in this cave are too narrow for our entire unit to move "
+"through. We'll make our way through one squad at a time and re-assemble at "
+"the river bed."
+msgstr ""
+
+#: lua/scripts/maps/a01_opening_scene.lua:356
+msgid "Now form your squads and get moving. I'll see you all underground."
+msgstr ""
+
+#: lua/scripts/maps/a01_opening_scene.lua:361
+msgid "Mark. Claudius. Let's go."
+msgstr ""
+
+#: lua/scripts/maps/a01_opening_scene.lua:365
+msgid ""
+"The creatures that inhabit this cave are not friendly, so be on your guard "
+"at all times. Now let's get moving."
+msgstr ""
+
+#: lua/scripts/maps/a01_return_scene.lua:237
+msgid ""
+"I can't wait to get back home. Maybe now that the water supply is restored "
+"they'll finally let us bathe again. I've been covered in sand for days."
+msgstr ""
+
+#: lua/scripts/maps/a01_return_scene.lua:244
+msgid "That's odd, the sky is brighter in the direction of the city."
+msgstr ""
+
+#: lua/scripts/maps/a01_return_scene.lua:247
+msgid ""
+"I bet the citizens are out celebrating now that the water's returned. "
+"They're probably preparing to welcome us back as heroes!"
+msgstr ""
+
+#: lua/scripts/maps/a01_return_scene.lua:250
+msgid "Maybe, but who would still be awake at this hour?"
+msgstr ""
+
+#: lua/scripts/maps/a01_return_scene.lua:253
+msgid "Our scout should be returning soon, we'll find out then."
+msgstr ""
+
+#: lua/scripts/maps/a01_return_scene.lua:259
+msgid "Captain Bravis!"
+msgstr ""
+
+#: lua/scripts/maps/a01_return_scene.lua:262
+msgid "Catch your breath soldier. What's wrong?"
+msgstr ""
+
+#: lua/scripts/maps/a01_return_scene.lua:265
+msgid ""
+"The city!\n"
+"*huff*\n"
+"The city...it's ablaze!"
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:543
+msgid "Watch your step and keep moving. It's not far to the river bed."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:548
+msgid ""
+"The river bed is just through this passage. Be careful, the walls are a "
+"little unstable."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:555
+msgid "I'll direct everyone remaining to take the longer route."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:559
+msgid "Dammit, ow ow ow..."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:564
+msgid ""
+"He sprained his ankle on a loose rock, so we're treating his injury. Move on "
+"ahead, you're almost there."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:574
+msgid "Claudius, I want you to lead us down to the riverbed."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:579
+msgid ""
+"Wait a damn minute Lukar! Why are you putting a rookie like him in charge?"
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:584
+msgid "Relax, Mark. This is the best way for him to get experience."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:589
+msgid ""
+"Claudius, I realize that this is your first real mission as a knight. If "
+"you're not up to this task, that's okay."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:591
+msgid "No, I can do it. I won't lead us astray."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:593
+msgid ""
+"Good. The path we're taking should be pretty straight forward, so don't "
+"worry about getting lost."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:595
+msgid "Tcsh. Just try not to get us all killed, okay rookie?"
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:601
+msgid "Wait, look up ahead. There's an enemy in our way."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:606
+msgid ""
+"A battle occurs whenever you collide with an enemy. Sometimes you can avoid "
+"a fight by sneaking past or running by an enemy before it has a chance to "
+"engage you. When you enter a battle you can no longer run away and must "
+"defeat your opponent."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:608
+msgid ""
+"That enemy doesn't appear to be much of a threat, so let it engage us. I "
+"want to make sure you remember how a knight does battle."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:610
+msgid "Let's see how useful you are in a real fight, rookie."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:616
+msgid ""
+"Nicely done. After a battle ends, you'll have a short moment of "
+"invulnerability to get away from any other enemies that may be roaming "
+"nearby. If you are surrounded by multiple foes when a battle begins, be "
+"ready to make a break for it as soon as the battle ends if you don't want to "
+"keep fighting."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:618
+msgid ""
+"Or you can not get yourself surrounded in the first place like a dumbass."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:620
+msgid "Well, Mark is correct. Even though he could have phrased that better."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:622
+msgid ""
+"You must also be careful as enemies will re-spawn after a short period of "
+"time, so don't sit around thinking that you're out of danger. Other times an "
+"enemy that is defeated will not appear again."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:627
+msgid ""
+"Ah, one more thing. You can access the party menu by pressing the [MENU] key "
+"while on a map. In the party menu you can heal your characters, change out "
+"your equipment, and manage your inventory."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:633
+msgid ""
+"Hold. There's a friendly ahead. Characters that have information to share "
+"will have a small icon appear above them that gradually appears as you get "
+"closer. Stand facing the character and hit the [CONFIRM] key to hear what "
+"they have to say."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:635
+msgid ""
+"Keep in mind that a character may have more than one piece of information to "
+"share, or may have something new to say after a particular event has "
+"occurred. The icon will look differently if the character has dialogue that "
+"you have not seen before."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:637
+msgid ""
+"So in other words, I should keep initiating a conversation with these "
+"characters until the new dialogue icon no longer appears above their head."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:639
+msgid ""
+"Look out, boys. We got a regular genius over here. Maybe you should have "
+"become a scholar instead of a knight."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:645
+msgid "Wait, look over there."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:650
+msgid "A corpse. That's always a reassuring find in a place like this."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:652
+msgid "Hey, I think I see something under its hand."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:658
+msgid "Hey! Over here!"
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:664
+msgid "Look out!"
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:671
+#, fuzzy
+msgid "Woah! Are you guys alright?"
+msgstr "¿Qué haces?"
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:673
+msgid "We're all fine. But the passage has caved in."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:675
+msgid "There's another way around, although it's a longer route. Follow me."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:681
+msgid ""
+"Wait. This path looks like it leads deeper into the cavern. The area we're "
+"trying to reach isn't down there. Let's head another direction."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:683
+msgid "Good. Who knows what could be lurking in the darkness down there."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:689
+msgid "Did you hear that? What the hell was that sound?"
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:691
+msgid "I don't know, but I've got a bad feeling about this mission."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:693
+msgid ""
+"Well the sooner we achieve our objective, the sooner we get out of here and "
+"go home. So move your ass instead of your mouth."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:699
+msgid "Hey check it out. The water is still running here."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:701
+msgid "That's a good sign. The river obstruction must be close."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:707
+msgid "Alright, looks like everyone made it."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:709
+msgid ""
+"Listen up! There's a large boulder obstructing the underground river that "
+"flows through here. When we get the water flowing again, we get to head out "
+"of here."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:711
+msgid ""
+"Mikal! Torren! Take your units and secure ropes around that overgrown rock. "
+"The rest of you stay alert and watch their backs. The residents of this cave "
+"aren't going to be pleased that we're rearranging their home."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:716
+msgid ""
+"Here, this will heal your wounds and fatigue. We need everyone to be at "
+"their full strength before we begin."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:719
+msgid "HP and SP restored."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:726
+msgid "Ready your swords. Here they come!"
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:731
+msgid "Don't let any through!"
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:736
+msgid "Damn, there's still more?"
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:742
+msgid "I heard that noise earlier. It sounds like its closer now."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:744
+msgid "Keep your eyes peeled and your swords ready men."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:746
+msgid ""
+"I don't know how you expect to see shit in here. I can barely see the end of "
+"my blade."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:748
+msgid "Over there! Watch out!"
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:754
+msgid "Captain, you've been wounded!"
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:756
+msgid ""
+"*cough cough*\n"
+"I'll be alright. Men, great job taking down that goliath. You've done well."
+msgstr ""
+
+#: lua/scripts/maps/a01_unblock_underground_river.lua:758
+msgid ""
+"We've achieved our objective here. Tend to the wounded and then let's make "
+"our way back home."
+msgstr ""
+
+#: src/modes/battle/battle_actors.cpp:532
+msgid "[Select Action]"
+msgstr ""
+
+#: src/modes/battle/battle_command.cpp:205
+msgid "Item<R>Type   ×"
+msgstr ""
+
+#: src/modes/battle/battle_command.cpp:433
+#, fuzzy
+msgid "Select Skill<R>Type  SP  Prep"
+msgstr "Técnicas"
+
+#: src/modes/battle/battle_command.cpp:525
+#: src/modes/battle/battle_command.cpp:1129
+msgid "Select Target"
+msgstr ""
+
+#: src/modes/battle/battle_command.cpp:611 src/modes/menu/menu.cpp:516
+msgid "Skills"
+msgstr "Técnicas"
+
+#: src/modes/battle/battle_command.cpp:612
+msgid "Item"
+msgstr ""
+
+#: src/modes/battle/battle_command.cpp:613
+msgid "Recover"
+msgstr ""
+
+#: src/modes/battle/battle_command.cpp:1134
+#: src/modes/battle/battle_command.cpp:1166
+msgid "All Allies"
+msgstr ""
+
+#: src/modes/battle/battle_command.cpp:1137
+#: src/modes/battle/battle_command.cpp:1169
+msgid "All Enemies"
+msgstr ""
+
+#: src/modes/battle/battle_command.cpp:1181
+msgid "Select Attack Point"
+msgstr ""
+
+#: src/modes/battle/battle_command.cpp:1202
+#, fuzzy
+msgid "Skill Points: "
+msgstr "Técnicas"
+
+#: src/modes/battle/battle_command.cpp:1203
+#: src/modes/battle/battle_command.cpp:1210
+msgid "Target Type: "
+msgstr ""
+
+#: src/modes/battle/battle_command.cpp:1204
+msgid "Prep Time: "
+msgstr ""
+
+#: src/modes/battle/battle_command.cpp:1209
+msgid "Quantity: "
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:154
+msgid "Retry"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:155
+msgid "Restart"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:156
+msgid "Return"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:157
+msgid "Retire"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:169 src/modes/shop/shop_confirm.cpp:127
+msgid "Yes"
+msgstr "Sí"
+
+#: src/modes/battle/battle_finish.cpp:170 src/modes/shop/shop_confirm.cpp:126
+msgid "No"
+msgstr "No"
+
+#: src/modes/battle/battle_finish.cpp:300
+msgid ""
+"Start over from the beginning of this battle.\n"
+"Attempts Remaining: "
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:303
+msgid "Load the game from the last save game point."
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:306
+msgid "Returns the game to the main boot menu."
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:309
+msgid "Exit the game."
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:316
+msgid "Confirm: retry battle."
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:319
+msgid "Confirm: restart from last save."
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:322
+msgid "Confirm: return to main menu."
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:325
+#, fuzzy
+msgid "Confirm: exit game."
+msgstr "Confirmar:"
+
+#: src/modes/battle/battle_finish.cpp:378
+msgid "Items Found"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:529
+msgid "XP Earned: "
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:532
+msgid "Drunes Recovered: "
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:580
+#: src/modes/battle/battle_finish.cpp:751
+msgid "Level: "
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:581
+#: src/modes/battle/battle_finish.cpp:752
+msgid "XP: "
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:689
+msgid "HP:"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:696
+msgid "SP:"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:703
+msgid "STR:"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:710
+msgid "VIG:"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:717
+msgid "FOR:"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:724
+msgid "PRO:"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:731
+msgid "AGI:"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:738
+msgid "EVA:"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:746
+msgid ""
+"New Skill Learned:\n"
+" "
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:877
+msgid "The heroes were victorious!"
+msgstr ""
+
+#: src/modes/battle/battle_finish.cpp:881
+msgid "But the heroes fell in battle..."
+msgstr ""
+
+#: src/modes/boot/boot.cpp:84
+msgid "Development Release"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:86
+msgid "© 2004 — 2015 The Allacrost Project"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:518
+msgid "New Game"
+msgstr "Juego Nuevo"
+
+#: src/modes/boot/boot.cpp:519 src/modes/save/save_mode.cpp:107
+msgid "Load Game"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:520
+msgid "Options"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:521
+msgid "Credits"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:522 src/modes/boot/boot_welcome.cpp:100
+msgid "Quit"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:547
+msgid "Video"
+msgstr "Video"
+
+#: src/modes/boot/boot.cpp:548
+msgid "Audio"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:549
+msgid "Language"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:550
+msgid "Key Settings"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:551
+msgid "Joystick Settings"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:552
+msgid "Profiles"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:570
+msgid "Resolution:"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:572
+msgid "Window mode:"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:573
+msgid "Brightness:"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:574
+msgid "Image quality:"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:594 src/modes/boot/boot.cpp:864
+msgid "Sound Volume: "
+msgstr "Volumen del sonido:"
+
+#: src/modes/boot/boot.cpp:595 src/modes/boot/boot.cpp:865
+msgid "Music Volume: "
+msgstr "Volumen de la musica:"
+
+#: src/modes/boot/boot.cpp:655
+msgid "Up: "
+msgstr "Arriba:"
+
+#: src/modes/boot/boot.cpp:656
+msgid "Down: "
+msgstr "Abajo:"
+
+#: src/modes/boot/boot.cpp:657
+msgid "Left: "
+msgstr "Izquierda:"
+
+#: src/modes/boot/boot.cpp:658
+msgid "Right: "
+msgstr "Derecho:"
+
+#: src/modes/boot/boot.cpp:659
+msgid "Confirm: "
+msgstr "Confirmar:"
+
+#: src/modes/boot/boot.cpp:660
+msgid "Cancel: "
+msgstr "Cancelar:"
+
+#: src/modes/boot/boot.cpp:661
+msgid "Menu: "
+msgstr ""
+
+#: src/modes/boot/boot.cpp:662
+msgid "Swap: "
+msgstr ""
+
+#: src/modes/boot/boot.cpp:663
+msgid "Left Select: "
+msgstr ""
+
+#: src/modes/boot/boot.cpp:664
+msgid "Right Select: "
+msgstr ""
+
+#: src/modes/boot/boot.cpp:665
+msgid "Pause: "
+msgstr ""
+
+#: src/modes/boot/boot.cpp:666 src/modes/boot/boot.cpp:696
+msgid "Restore defaults"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:740 src/modes/menu/menu.cpp:519
+#: src/modes/menu/menu.cpp:587 src/modes/menu/menu.cpp:602
+msgid "Save"
+msgstr "Salvar"
+
+#: src/modes/boot/boot.cpp:741
+msgid "Load"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:742
+msgid "Delete"
+msgstr "Borrar"
+
+#: src/modes/boot/boot.cpp:773
+msgid "New Profile"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:837
+msgid "back"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:840
+msgid "end"
+msgstr "fin"
+
+#: src/modes/boot/boot.cpp:853
+msgid "Window mode: fullscreen"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:855
+msgid "Window mode: windowed"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:858
+msgid "Brightness: "
+msgstr ""
+
+#: src/modes/boot/boot.cpp:872
+msgid "Move Up"
+msgstr "Mover arriba"
+
+#: src/modes/boot/boot.cpp:873
+msgid "Move Down"
+msgstr "Mover abajo"
+
+#: src/modes/boot/boot.cpp:874
+msgid "Move Left"
+msgstr "Mover a la izquierda"
+
+#: src/modes/boot/boot.cpp:875
+msgid "Move Right"
+msgstr "Mover al derecho"
+
+#: src/modes/boot/boot.cpp:876 src/modes/boot/boot_welcome.cpp:79
+#: src/modes/shop/shop.cpp:1030
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: src/modes/boot/boot.cpp:877 src/modes/boot/boot_welcome.cpp:82
+#: src/modes/pause.cpp:74 src/modes/save/save_mode.cpp:108
+#: src/modes/save/save_mode.cpp:123 src/modes/save/save_mode.cpp:143
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/modes/boot/boot.cpp:878 src/modes/boot/boot_welcome.cpp:85
+msgid "Menu"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:879 src/modes/boot/boot_welcome.cpp:88
+msgid "Swap"
+msgstr "Cambiar"
+
+#: src/modes/boot/boot.cpp:880 src/modes/boot/boot_welcome.cpp:91
+msgid "Left Select"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:881 src/modes/boot/boot_welcome.cpp:94
+msgid "Right Select"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:882 src/modes/boot/boot_welcome.cpp:97
+msgid "Pause"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:889
+msgid "X Axis"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:890
+msgid "Y Axis"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:891
+msgid "Confirm: Button"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:892
+msgid "Cancel: Button"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:893
+msgid "Menu: Button"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:894
+msgid "Swap: Button"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:895
+msgid "Left Select: Button"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:896
+msgid "Right Select: Button"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:897
+msgid "Pause: Button"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:1170
+msgid "Please enter a name for your new profile"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:1178
+msgid "Overwrite? Confirm/Cancel"
+msgstr ""
+
+#: src/modes/boot/boot.cpp:1461
+msgid "Please press a new joystick button."
+msgstr ""
+
+#: src/modes/boot/boot.cpp:1463
+msgid "Please press a new key."
+msgstr ""
+
+#: src/modes/boot/boot.cpp:1465
+msgid "Please move an axis."
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:44
+msgid "The table below lists the default game controls.\n"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:45
+msgid ""
+"The control mappings can be changed in the options menu on the next screen."
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:55
+msgid "Command"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:56
+msgid "Default Key"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:57
+msgid "General Purpose"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:67
+msgid "Up"
+msgstr "Arriba"
+
+#: src/modes/boot/boot_welcome.cpp:68
+msgid "Up Arrow"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:69
+msgid "Move position or cursor upwards"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:70
+msgid "Down"
+msgstr "Abajo"
+
+#: src/modes/boot/boot_welcome.cpp:71
+msgid "Down Arrow"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:72
+msgid "Move position or cursor downwards"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:73
+msgid "Left"
+msgstr "Izquierda"
+
+#: src/modes/boot/boot_welcome.cpp:74
+msgid "Left Arrow"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:75
+msgid "Move position or cursor to the left"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:76
+msgid "Right"
+msgstr "Derecho"
+
+#: src/modes/boot/boot_welcome.cpp:77
+msgid "Right Arrow"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:78
+msgid "Move position or cursor to the right"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:80
+msgid "F"
+msgstr "F"
+
+#: src/modes/boot/boot_welcome.cpp:81
+msgid "Confirm an action or menu command"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:83
+msgid "D"
+msgstr "D"
+
+#: src/modes/boot/boot_welcome.cpp:84
+msgid "Cancel an action or menu command"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:86
+msgid "S"
+msgstr "S"
+
+#: src/modes/boot/boot_welcome.cpp:87
+msgid "Display the character menu"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:89
+msgid "A"
+msgstr "A"
+
+#: src/modes/boot/boot_welcome.cpp:90
+msgid "Swaps active menu or character"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:92
+msgid "W"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:93
+msgid "Select multiple or backward page scroll"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:95
+msgid "E"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:96
+msgid "Select multiple or forward page scroll"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:98
+msgid "Spacebar"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:99
+msgid "Pauses the game"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:101
+msgid "Esc"
+msgstr "Esc"
+
+#: src/modes/boot/boot_welcome.cpp:102
+msgid "Quit the application"
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:105
+msgid ""
+"There are additional commands available which can be found in the MANUAL "
+"file."
+msgstr ""
+
+#: src/modes/boot/boot_welcome.cpp:108
+msgid "Press F1 to continue."
+msgstr ""
+
+#: src/modes/map/map_treasure.cpp:85
+msgid "Treasure Contents"
+msgstr ""
+
+#: src/modes/map/map_treasure.cpp:109
+msgid "Finished"
+msgstr "Terminado"
+
+#: src/modes/map/map_treasure.cpp:351
+msgid "Drunes"
+msgstr "Drunes"
+
+#: src/modes/map/map_treasure.cpp:353
+msgid "With the additional "
+msgstr ""
+
+#: src/modes/map/map_treasure.cpp:354
+msgid " drunes found in this treasure added, the party now holds a total of "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:515
+msgid "Inventory"
+msgstr "Inventario"
+
+#: src/modes/menu/menu.cpp:517 src/modes/menu/menu.cpp:632
+msgid "Equip"
+msgstr "Blandir"
+
+#: src/modes/menu/menu.cpp:518
+msgid "Status"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:520
+msgid "Formation"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:536 src/modes/menu/menu.cpp:554
+msgid "Use"
+msgstr "Usar"
+
+#: src/modes/menu/menu.cpp:538 src/modes/menu/menu.cpp:555
+#: src/modes/menu/menu.cpp:570 src/modes/menu/menu.cpp:588
+#: src/modes/menu/menu.cpp:603 src/modes/menu/menu.cpp:618
+#: src/modes/menu/menu.cpp:634
+msgid "Back"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:569
+msgid "View"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:586
+msgid "Edit"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:617
+msgid "Switch"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:633
+msgid "Remove"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:821
+msgid "STR: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:824
+msgid "VIG: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:827
+msgid "FRT: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:830
+msgid "PRO: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:833
+msgid "STA: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:836
+msgid "RES: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:839
+msgid "AGI: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:842
+msgid "EVD: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:846
+msgid "Current Equipment:"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:849 src/modes/menu/menu_views.cpp:1548
+msgid "Weapon"
+msgstr "Arma"
+
+#: src/modes/menu/menu.cpp:868
+msgid "PHYS ATK: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:870
+msgid "PHYS ATK: 0"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:876 src/modes/menu/menu.cpp:884
+#: src/modes/menu/menu.cpp:892 src/modes/menu/menu.cpp:900
+msgid "PHYS DEF: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:878 src/modes/menu/menu.cpp:886
+#: src/modes/menu/menu.cpp:894 src/modes/menu/menu.cpp:902
+msgid "PHYS DEF: 0"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:910
+msgid "ETH ATK: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:912
+msgid "ETH ATK: 0"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:918 src/modes/menu/menu.cpp:926
+#: src/modes/menu/menu.cpp:934 src/modes/menu/menu.cpp:942
+msgid "ETH DEF: "
+msgstr ""
+
+#: src/modes/menu/menu.cpp:920 src/modes/menu/menu.cpp:928
+#: src/modes/menu/menu.cpp:936 src/modes/menu/menu.cpp:944
+msgid "ETH DEF: 0"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:960
+msgid "PHYS ATK:"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:965
+msgid "ETH ATK:"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:979 src/modes/menu/menu.cpp:998
+#: src/modes/menu/menu.cpp:1017 src/modes/menu/menu.cpp:1036
+msgid "PHYS DEF:"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:984 src/modes/menu/menu.cpp:1003
+#: src/modes/menu/menu.cpp:1022 src/modes/menu/menu.cpp:1041
+msgid "ETH DEF:"
+msgstr ""
+
+#: src/modes/menu/menu.cpp:1073
+msgid "Drunes: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:102 src/modes/save/save_mode.cpp:624
+msgid "Lv: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:106 src/modes/menu/menu_views.cpp:597
+#: src/modes/save/save_mode.cpp:628
+msgid "HP: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:111 src/modes/menu/menu_views.cpp:601
+#: src/modes/save/save_mode.cpp:633
+msgid "SP: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:116 src/modes/menu/menu_views.cpp:605
+msgid "XP to Next: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:204 src/modes/menu/menu_views.cpp:747
+msgid "All"
+msgstr "Todo"
+
+#: src/modes/menu/menu_views.cpp:205
+msgid "Itm"
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:206
+msgid "Wpn"
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:207
+msgid "Hlm"
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:208
+msgid "Tor"
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:211
+msgid "Key"
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:591
+msgid "Experience Level: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:608
+msgid "Strength: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:611
+msgid "Vigor: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:614
+msgid "Fortitude: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:617
+msgid "Protection: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:620
+msgid "Stamina: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:623
+msgid "Resilience: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:626
+msgid "Agility: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:629
+msgid "Evade: "
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:748
+msgid "Field"
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:749
+msgid "Battle"
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:1526 src/modes/shop/shop.cpp:127
+msgid "Weapons"
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:1529 src/modes/menu/menu_views.cpp:1550
+msgid "Headgear"
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:1532 src/modes/menu/menu_views.cpp:1552
+msgid "Body Armor"
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:1535 src/modes/menu/menu_views.cpp:1554
+msgid "Offhand"
+msgstr ""
+
+#: src/modes/menu/menu_views.cpp:1538 src/modes/menu/menu_views.cpp:1556
+msgid "Leggings"
+msgstr ""
+
+#: src/modes/pause.cpp:60
+msgid "Paused"
+msgstr ""
+
+#: src/modes/pause.cpp:72
+msgid "Quit Game"
+msgstr ""
+
+#: src/modes/pause.cpp:73
+msgid "Quit to Main Menu"
+msgstr ""
+
+#: src/modes/save/save_mode.cpp:106
+msgid "Save Game"
+msgstr ""
+
+#: src/modes/save/save_mode.cpp:124
+msgid "File #1"
+msgstr ""
+
+#: src/modes/save/save_mode.cpp:125
+msgid "File #2"
+msgstr ""
+
+#: src/modes/save/save_mode.cpp:126
+msgid "File #3"
+msgstr ""
+
+#: src/modes/save/save_mode.cpp:127
+msgid "File #4"
+msgstr ""
+
+#: src/modes/save/save_mode.cpp:128
+msgid "File #5"
+msgstr ""
+
+#: src/modes/save/save_mode.cpp:129
+msgid "File #6"
+msgstr ""
+
+#: src/modes/save/save_mode.cpp:142
+#, fuzzy
+msgid "Confirm Save"
+msgstr "Confirmar:"
+
+#: src/modes/shop/shop.cpp:126
+msgid "Items"
+msgstr ""
+
+#: src/modes/shop/shop.cpp:128
+msgid "Head Armor"
+msgstr ""
+
+#: src/modes/shop/shop.cpp:129
+msgid "Torso Armor"
+msgstr ""
+
+#: src/modes/shop/shop.cpp:130
+msgid "Arm Armor"
+msgstr ""
+
+#: src/modes/shop/shop.cpp:131
+msgid "Leg Armor"
+msgstr ""
+
+#: src/modes/shop/shop.cpp:132
+msgid "Shards"
+msgstr ""
+
+#: src/modes/shop/shop.cpp:133
+msgid "Key Items"
+msgstr ""
+
+#: src/modes/shop/shop.cpp:134
+msgid "All Wares"
+msgstr ""
+
+#: src/modes/shop/shop.cpp:375
+msgid "Field Use:"
+msgstr "Usado en el campo:"
+
+#: src/modes/shop/shop.cpp:377
+msgid "Battle Use:"
+msgstr "Usado en la batalla:"
+
+#: src/modes/shop/shop.cpp:379
+msgid "Target:"
+msgstr ""
+
+#: src/modes/shop/shop.cpp:391
+msgid "Phys:"
+msgstr "Física:"
+
+#: src/modes/shop/shop.cpp:393
+msgid "Eth:"
+msgstr ""
+
+#: src/modes/shop/shop.cpp:1027 src/modes/shop/shop_buy.cpp:69
+#: src/modes/shop/shop_confirm.cpp:187 src/modes/shop/shop_confirm.cpp:210
+#: src/modes/shop/shop_confirm.cpp:525 src/modes/shop/shop_leave.cpp:170
+#: src/modes/shop/shop_leave.cpp:190 src/modes/shop/shop_leave.cpp:442
+msgid "Buy"
+msgstr "Comprar"
+
+#: src/modes/shop/shop.cpp:1028 src/modes/shop/shop_confirm.cpp:195
+#: src/modes/shop/shop_confirm.cpp:514 src/modes/shop/shop_leave.cpp:177
+#: src/modes/shop/shop_leave.cpp:431 src/modes/shop/shop_sell.cpp:69
+msgid "Sell"
+msgstr "Vender"
+
+#: src/modes/shop/shop.cpp:1029
+msgid "Trade"
+msgstr "Intercambiar"
+
+#: src/modes/shop/shop.cpp:1038
+msgid "Leave"
+msgstr "Salir"
+
+#: src/modes/shop/shop.cpp:1527
+msgid "Funds: "
+msgstr "Fondos:"
+
+#: src/modes/shop/shop.cpp:1528
+msgid "Purchases: -"
+msgstr "Compras:"
+
+#: src/modes/shop/shop.cpp:1529
+msgid "Sales: +"
+msgstr "Ventas:"
+
+#: src/modes/shop/shop.cpp:1530
+msgid "Total: "
+msgstr "Total:"
+
+#: src/modes/shop/shop_buy.cpp:57 src/modes/shop/shop_sell.cpp:57
+msgid "Category"
+msgstr ""
+
+#: src/modes/shop/shop_buy.cpp:60 src/modes/shop/shop_confirm.cpp:79
+#: src/modes/shop/shop_leave.cpp:80 src/modes/shop/shop_sell.cpp:60
+msgid "Name"
+msgstr "Nombre"
+
+#: src/modes/shop/shop_buy.cpp:66 src/modes/shop/shop_confirm.cpp:87
+#: src/modes/shop/shop_leave.cpp:88 src/modes/shop/shop_sell.cpp:66
+msgid "Price"
+msgstr "Precio"
+
+#: src/modes/shop/shop_buy.cpp:67 src/modes/shop/shop_confirm.cpp:88
+#: src/modes/shop/shop_leave.cpp:89 src/modes/shop/shop_sell.cpp:67
+msgid "Stock"
+msgstr ""
+
+#: src/modes/shop/shop_buy.cpp:68 src/modes/shop/shop_confirm.cpp:89
+#: src/modes/shop/shop_leave.cpp:90 src/modes/shop/shop_sell.cpp:68
+msgid "Own"
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:67 src/modes/shop/shop_leave.cpp:68
+msgid "Purchases"
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:71 src/modes/shop/shop_leave.cpp:72
+msgid "Sales"
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:75 src/modes/shop/shop_leave.cpp:76
+msgid "Trades"
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:93 src/modes/shop/shop_leave.cpp:94
+msgid "No marked transactions."
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:99
+msgid "There are no marked purchases, sales, or trades."
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:102
+msgid "Will that be all?"
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:111
+msgid "Modify Order"
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:112
+msgid "Clear Order"
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:113
+msgid "Complete Transaction"
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:117
+msgid "This will remove all marked purchases, sales, and trades. Are you sure?"
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:669 src/modes/shop/shop_confirm.cpp:676
+#: src/modes/shop/shop_confirm.cpp:683 src/modes/shop/shop_leave.cpp:193
+#: src/modes/shop/shop_leave.cpp:195 src/modes/shop/shop_leave.cpp:197
+msgid " count"
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:670 src/modes/shop/shop_confirm.cpp:677
+#: src/modes/shop/shop_leave.cpp:194 src/modes/shop/shop_leave.cpp:196
+msgid " unique"
+msgstr ""
+
+#: src/modes/shop/shop_confirm.cpp:684 src/modes/shop/shop_leave.cpp:198
+msgid " characters"
+msgstr ""
+
+#: src/modes/shop/shop_leave.cpp:100
+msgid "Your order is not yet final. Are you sure you want to leave the shop?"
+msgstr ""
+
+#: src/modes/shop/shop_leave.cpp:109
+msgid "View Order"
+msgstr ""
+
+#: src/modes/shop/shop_leave.cpp:110
+msgid "Confirm Order"
+msgstr ""
+
+#: src/modes/shop/shop_leave.cpp:111
+msgid "Leave Shop"
+msgstr ""
+
+#: src/modes/shop/shop_root.cpp:117
+msgid "Shop Name"
+msgstr ""
+
+#: src/modes/shop/shop_root.cpp:120
+msgid "Buy prices"
+msgstr ""
+
+#: src/modes/shop/shop_root.cpp:122
+msgid "Sell prices"
+msgstr ""
+
+#: src/modes/shop/shop_root.cpp:130
+msgid "\"Welcome! Take a look around.\""
+msgstr ""
+
+#: src/modes/shop/shop_trade.cpp:48
+msgid "This feature is not yet available."
+msgstr ""
+
+#~ msgid "No!"
+#~ msgstr "¡No!"
+
+#, fuzzy
+#~ msgid "What have you done…"
+#~ msgstr "¿Qué haces?"
+
+#~ msgid "What are you doing?"
+#~ msgstr "¿Qué haces?"
+
+#~ msgid "I’m your friend!"
+#~ msgstr "¡Soy tu amigo!"
+
+#~ msgid "It’s my duty!"
+#~ msgstr "¡Es mi obligación!"
+
+#~ msgid "I don’t want to fight you."
+#~ msgstr "No quiero pelearse contigo."
+
+#~ msgid "You know I can’t."
+#~ msgstr "No puedo."
+
+#, fuzzy
+#~ msgid "Claudius, what are you doing here?"
+#~ msgstr "¿Qué haces?"
+
+#, fuzzy
+#~ msgid "No, of course not..."
+#~ msgstr "¡Por supuesto que no! "
+
+#, fuzzy
+#~ msgid "Of course, I promise."
+#~ msgstr "¡Por supuesto que no! "
+
+#~ msgid "Huh?  What?"
+#~ msgstr "¿Qué?"
+
+#~ msgid "What’s going on?"
+#~ msgstr "¿Qué pasa?"
+
+#~ msgid "Come on, Kyle, let’s go! Kyle?"
+#~ msgstr "¡Kyle, vamos!  ¿Kyle?"
+
+#~ msgid "Yes, Claudius?"
+#~ msgstr "¿Claudius?"
+
+#~ msgid "Hey."
+#~ msgstr "Hola."
+
+#~ msgid "What are you doing? The captain wants to speak with you."
+#~ msgstr "¿Qué haces?  El capitán necesita hablar contigo."
+
+#~ msgid "He can wait."
+#~ msgstr "El capitán puede esperar."
+
+#, fuzzy
+#~ msgid "…What?"
+#~ msgstr "¿Qué?"
+
+#~ msgid "Good job."
+#~ msgstr "Buen trabajo."
+
+#~ msgid "Yes?"
+#~ msgstr "¿Qué?"
+
+#~ msgid "…Let’s go."
+#~ msgstr "…Vamos."
+
+#~ msgid "Yes sir."
+#~ msgstr "Sí, señor."
+
+#~ msgid "Nicely done."
+#~ msgstr "Muy bien."
+
+#~ msgid "Thank you, sir."
+#~ msgstr "Gracias, señor."
+
+#~ msgid "I don’t know, sir."
+#~ msgstr "Yo no sé, señor."
+
+#~ msgid "Well done, Claudius."
+#~ msgstr "Muy bien, Claudius."
+
+#~ msgid "Yes, sir."
+#~ msgstr "Sí, señor."
+
+#~ msgid "You and Kyle are close."
+#~ msgstr "Kyle y tú son buen amigos."
+
+#~ msgid "We are, sir."
+#~ msgstr "Nosotros somos, señor."
+
+#~ msgid "I understand, sir."
+#~ msgstr "Yo comprendo, señor."
+
+#~ msgid "Meta:"
+#~ msgstr "Metafísico:"
+
+#~ msgid "Demo 1.0.0"
+#~ msgstr "Versión Demo 1.0.0"
+
+#~ msgid "I can do that on my own."
+#~ msgstr "Puedo hacerlo yo solo."
+
+#~ msgid "You’re crazy."
+#~ msgstr "Tú estás loco."
+
+#~ msgid "You’ve never thought about leaving the knighthood?"
+#~ msgstr "¿No piensas que salir los caballeros?"
+
+#~ msgid "Of course not."
+#~ msgstr "¡Por supuesto que no! "
+
+#~ msgid "You’ll be all right."
+#~ msgstr "Tú vas a estar bien."
+
+#~ msgid "I just don’t understand you sometimes."
+#~ msgstr "No te comprendo a veces."
+
+#~ msgid "Hey, what time is it?"
+#~ msgstr "¿Qué hora es?"
+
+#~ msgid "I don’t know."
+#~ msgstr "No sé."
+
+#~ msgid "Who cares?"
+#~ msgstr "¿Qué más da?"
+
+#~ msgid "I think we are. Come on."
+#~ msgstr "Creo que sí.  Vamos."

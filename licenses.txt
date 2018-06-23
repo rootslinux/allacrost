@@ -1,0 +1,133 @@
+This file explains the licensing terms for Allacrost code and content. It also lists the appropriate attributions and 
+licenses for third-party content that is used.
+
+
+=====    Code      =====
+
+All code is licensed under the GNU GPL Version 2 open source software license. Code is defined as anything contained within
+the src/ and lua/ directories. Code includes both C++ and Lua source files.
+
+
+=====   Content    =====
+
+All original Allacrost content is licensed under the GNU GPL Version 2. Content is defined as anything contained within the img/,
+snd/, and mus/ directories. Content includes PNG and JPEG images, WAV files, and Vorbis OGG music files.
+
+
+=====   Sources    =====
+
+Allacrost uses many pieces of content that were created external to the project and provided for use under a compatible license.
+The following websites are where the majority of this content was procured from.
+
+Identifier  Project                             Website
+----------- ----------------------------------- -----------------------------------
+[BFW]       Battle for Wesnoth                  http://www.wesnoth.org
+[FLR]       FLARE                               http://www.flare.org
+[OGA]       OpenGameArt                         http://opengameart.org
+[RTT]       RTP Tileset by Telles0808           https://telles0808.deviantart.com/art/RPG-Maker-VX-RTP-Tileset-159218223
+[TIL]       Tiled Map Editor                    http://mapeditor.org/
+[TMW]       TheManaWorld                        http://themanaworld.org/
+[VAT]       Valyria Tear                        http://valyriatear.blogspot.com/
+
+Note that some files may include multiple sources of content. Especially map tileset images. Such files may therefore be under
+multiple licenses, and you should inquire which parts of the file correspond to what license prior to using this content.
+
+
+=====   Licenses   =====
+
+The following is a list of all files which contain artwork developed by a third-party. Please respect the original authors by
+complying with the terms of their license before using their content. Any files (or image portions of tilesets) not present
+in this list should be presumed to be original Allacrost content and is provided under the terms of the Allacrost content license.
+
+___ Artwork ___
+
+Files                                                           License                  Authors, Source, and Details
+--------------------------------------------------------------- ------------------------ --------------------------------------------------------------------
+img/ambient/dark.png                                            CC0                      Bertram, [VT]
+img/ambient/fog.png                                             GPLv2                    Bertram, [VT]
+img/ambient/sandstorm.png                                       GPLv2                    Bertram, [TMW] + [VT]
+
+img/backdrops/battle/forest_background.png                      CC-BY-SA 3.0             Tamara Ramsay (Ramtam), [OGA], vectorgurl.com
+img/backdrops/battle/forest_background_evening.png              CC-BY-SA 3.0             Tamara Ramsay (Ramtam), [OGA], vectorgurl.com
+
+img/effects/blast_hit.png                                       CC0                      Sinestesia, [OGA]
+
+img/icons/armor/buckler.png                                     CC0                      blarumyrran, [FLR]
+img/icons/armor/leather_armor.png                               CC0                      blarumyrran, [FLR]
+img/icons/armor/steel_armor.png                                 CC0                      blarumyrran, [FLR]
+img/icons/armor/sturdy_shield.png                               CC0                      blarumyrran, [FLR]
+img/icons/armor/tunic.png                                       CC0                      blarumyrran, [FLR]
+img/icons/weapons/dagger.png                                    CC0                      blarumyrran, [FLR]
+img/icons/weapons/earth_staff.png                               CC0                      blarumyrran, [FLR]
+img/icons/weapons/fire_staff.png                                CC0                      blarumyrran, [FLR]
+img/icons/weapons/great_bow.png                                 CC0                      blarumyrran, [FLR]
+img/icons/weapons/great_sword.png                               CC0                      blarumyrran, [FLR]
+img/icons/weapons/ice_staff.png                                 CC0                      blarumyrran, [FLR]
+img/icons/weapons/long_bow.png                                  CC0                      blarumyrran, [FLR]
+img/icons/weapons/long_sword.png                                CC0                      blarumyrran, [FLR]
+img/icons/weapons/short_bow.png                                 CC0                      blarumyrran, [FLR]
+img/icons/weapons/short_sword.png                               CC0                      blarumyrran, [FLR]
+img/icons/weapons/slingshot.png                                 CC0                      blarumyrran, [FLR]
+img/icons/weapons/wand.png                                      CC0                      blarumyrran, [FLR]
+
+img/sprites/battle/characters/claudius_jump_backward.png        CC-BY-SA 3.0             Jetrel + Bertram, [OGA] + [VT]
+img/sprites/battle/characters/claudius_jump_forward.png         CC-BY-SA 3.0             Jetrel + Bertram, [OGA] + [VT]
+img/sprites/battle/characters/claudius_kneeling.png             GPLv2                    Allacrost + Valyria Tear
+
+img/sprites/enemies/bat_spritesheet.png                         CC-BY-SA 3.0             Liberated Pixel Cup, [OGA], http://lpc.opengameart.org/ 
+img/sprites/enemies/big_slime_idle.png                          GPLv2                    Bertram, [VT]
+img/sprites/enemies/big_slime_spritesheet.png                   CC-BY-SA 3.0             Liberated Pixel Cup, [OGA], http://lpc.opengameart.org/
+img/sprites/enemies/big_slime_walk.png                          GPLv2                    Bertram, [VT]
+
+img/sprites/creatures/butterfly_spritesheet.png                 GPLv2                    [TMW]
+img/sprites/creatures/chicken_spritesheet.png                   CC-BY-SA 3.0             Daniel Eddeland (Daneeklu), [OGA]
+img/sprites/creatures/squirrel_spritesheet.png                  GPLv2                    [TMW]
+
+img/sprites/objects/medium_explosion.png                        CC-BY 3.0                Hyptosis, [OGA]
+img/sprites/objects/large_explosion.png                         CC-BY 3.0                Hyptosis, [OGA]
+
+img/tilesets/building_interior_objects_01.png                   CC-BY-SA 3.0             Lanea Zimmerman (Sharm), [OGA], smaller beds, cabinets, chairs, curtains, stove
+                                                                CC-BY-SA 3.0             Daniel Cook, [OGA], stone tables, benches, grey chairs, chests, fireplace
+img/tilesets/building_interior_objects_02.png                   CC-BY-SA 3.0             Lanea Zimmerman (Sharm), [OGA], buckets, barrel, table settings, blue vases
+img/tilesets/castle_exterior_01.png                             CC-BY 3.0                Hyptosis + Zabin, [OGA]
+img/tilesets/castle_greystone_exterior_01.png                   GPLv2                    Krzysztof Daszuta (Irukard), [TMW]
+img/tilesets/castle_greystone_exterior_02.png                   GPLv2                    Mer + Pet + Ali, [TMW]
+img/tilesets/castle_greystone_exterior_02.png                   GPLv3                    Lanea Zimmerman (Sharm), [OGA]
+img/tilesets/castle_greystone_interior_01.png                   CC-BY-SA-NC 3.0          Telles0808, [RTT], Thrones, banners
+img/tilesets/desert_town_exterior_01.png                        CC-BY 3.0                Hyptosis + Zabin, [OGA]
+
+                                                                CC-BY-SA 3.0             Hyptosis + Jetrl, [OGA], Fire
+img/tilesets/desert_house_exterior.png                          CC-BY 3.0                Hyptosis + Zabin, [OGA], windows
+                                                                CC-BY-SA 3.0             Reemax, [OGA], signs
+                                                                GPLv3.0+                 Daniel Eddeland, [OGA], fences, flowerbed
+img/tilesets/outdoor_market.png                                 CC-BY-SA 3.0             Daniel Eddeland (Daneeklu), [OGA]
+                                                                CC-BY-SA 3.0             Joshua Taylor, [OGA]
+                                                                CC-BY 3.0                Zabin + Hyptosis, [OGA], market stalls, anvil, light, latern, sacks
+img/tilesets/ship_dock.png                                      CC-BY-SA 3.0             Reid, [OGA], soft brown dock with ropes
+                                                                CC-BY 3.0                Zabin + Hyptosis, [OGA], sacks
+                                                                CC-BY-SA 3.0             Liberated Pixel Cup, [OGA], brightly colored docks
+img/misc/editor_tools/
+img/misc/editor-tools/new.png                                   GPLv2+                   Bjorn Lindeijer, [TIL]
+img/misc/editor-tools/delete.png                                GPLv2+                   Bjorn Lindeijer, [TIL]
+img/misc/editor-tools/eye.png                                   GPLv2+                   Bjorn Lindeijer, [TIL]
+img/misc/editor-tools/move_down.png                             GPLv2+                   Bjorn Lindeijer, [TIL]
+img/misc/editor-tools/move_up.png                               GPLv2+                   Bjorn Lindeijer, [TIL]
+
+
+___ Sounds ___
+
+Files                                                           License                  Authors, Source, and Details
+--------------------------------------------------------------- ------------------------ --------------------------------------------------------------------
+
+snd/door_locked.ogg                                             CC0                      Iwan Gabovitch (qubodup), [OGA]
+snd/lightning.wav                                               CC0                      Bertram, [VT]
+snd/thunder.wav                                                 CC0                      Bertram, [VT]
+
+
+
+___ Music ___
+
+Files                                                           License                  Authors, Source, and Details
+--------------------------------------------------------------- ------------------------ --------------------------------------------------------------------
+
+
